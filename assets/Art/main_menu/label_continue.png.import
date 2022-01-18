@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Default_Button.png-c82e13da8e2d3488bf8e9cb39ae9d9ca.stex"
+path="res://.import/label_continue.png-5028be66acc712e4a75aa43e5b02c9b5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/general/images/Default_Button.png"
-dest_files=[ "res://.import/Default_Button.png-c82e13da8e2d3488bf8e9cb39ae9d9ca.stex" ]
+source_file="res://assets/Art/main_menu/label_continue.png"
+dest_files=[ "res://.import/label_continue.png-5028be66acc712e4a75aa43e5b02c9b5.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

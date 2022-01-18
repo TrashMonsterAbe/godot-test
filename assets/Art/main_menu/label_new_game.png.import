@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/label_options.png-847fb9f97678d82ff589db1c994a37a0.stex"
+path="res://.import/label_new_game.png-cd6ab36fbe3e01f3045b9347bf279623.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/main_menu/label_options.png"
-dest_files=[ "res://.import/label_options.png-847fb9f97678d82ff589db1c994a37a0.stex" ]
+source_file="res://assets/Art/main_menu/label_new_game.png"
+dest_files=[ "res://.import/label_new_game.png-cd6ab36fbe3e01f3045b9347bf279623.stex" ]
 
 [params]
 

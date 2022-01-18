@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/characters.png-c6a9fe63f07b2b8f6a27e7313e307fb4.stex"
+path="res://.import/characters.png-aa297005f22a56752540c97a620207fb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/main_menu/characters.png"
-dest_files=[ "res://.import/characters.png-c6a9fe63f07b2b8f6a27e7313e307fb4.stex" ]
+source_file="res://assets/Art/main_menu/characters.png"
+dest_files=[ "res://.import/characters.png-aa297005f22a56752540c97a620207fb.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true
